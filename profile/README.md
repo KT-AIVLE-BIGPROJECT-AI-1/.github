@@ -1,6 +1,6 @@
 # 🧠 CISP : AI 경찰 수사 지원 시스템
 
-<img src="img/thumbnail.png" width="50%">
+<img src="img/thumbnail.png" width="100%">
 
 
 ## 📌 프로젝트 개요
@@ -125,7 +125,7 @@
 
 ## 서비스 배포 아키텍처
 
-<img src="img/aws-architecture.png" width="50%">
+<img src="img/aws-architecture.png" width="100%">
 
 ---
 
